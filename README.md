@@ -2,7 +2,7 @@
 
 Adding to this as I complete problems
 
-Previously solved problems will be added when i revisit them later\n
+Previously solved problems will be added when i revisit them later <br>
 Feel free to check out the LeetCode profile: <https://leetcode.com/u/jkebret/>
 
 Topics covered so far:
